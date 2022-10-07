@@ -126,7 +126,6 @@ class uCard extends LitElement {
           <slot name="subheading"></slot>
           <slot name="content"></slot>
           <slot name="link"></slot>
-          <slot></slot>
         </div>
     `;
   }
